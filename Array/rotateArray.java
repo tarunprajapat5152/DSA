@@ -1,4 +1,4 @@
-public class index8 {
+public class rotateArray {
 
     public static void rotateArray(int nums[], int k) {
         int n = nums.length;

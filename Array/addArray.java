@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class index {
+public class addArray {
 
     public static ArrayList<Integer> addArray(int arr1[], int arr2[]){
         ArrayList<Integer> arr3 = new ArrayList<>();

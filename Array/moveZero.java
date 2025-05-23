@@ -1,4 +1,4 @@
-public class index4 {
+public class moveZero {
 
     public static void moveZero(int arr[]) {
         int n = arr.length;

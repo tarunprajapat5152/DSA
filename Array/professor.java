@@ -1,4 +1,4 @@
-public class index2 {
+public class professor {
 
     public static String professor(int k, int arr[]){
 

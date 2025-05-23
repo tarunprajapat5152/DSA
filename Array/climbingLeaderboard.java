@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class index1{
+public class climbingLeaderboard{
 
     public static  ArrayList<Integer> climbingLeaderboard(int ranked[], int player[]){
 

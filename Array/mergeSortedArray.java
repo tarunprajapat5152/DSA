@@ -1,4 +1,4 @@
-public class index5 {
+public class mergeSortedArray {
 
     public static void mergeSortedArray(int num1[], int[] num2, int m, int n) {
         int i = m - 1;

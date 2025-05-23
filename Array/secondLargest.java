@@ -1,4 +1,4 @@
-public class index3 {
+public class secondLargest {
 
     public static int secondLargest(int arr[]) {
         int largest = 0;
